@@ -1,0 +1,10 @@
+## requirements.txt
+
+Create this at the root:
+
+```text
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
